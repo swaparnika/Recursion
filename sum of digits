@@ -12,4 +12,4 @@ int sum(int n)
    return 0;
    else 
     return (n%10+sum(n/10));
- )
+ }
